@@ -1,0 +1,9 @@
+Package: com.zerox.nosleeplockscreen
+Name: NoSleepLockScreen
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Disable sleep mode lockscreen overlay for iOS 14
+Maintainer: ZeroX
+Author: ZeroX
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
